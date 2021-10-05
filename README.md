@@ -1,2 +1,1 @@
-# gitdemo
-starting with github
+# git demo
